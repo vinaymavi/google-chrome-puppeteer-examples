@@ -1,0 +1,11 @@
+{
+  "name": "google-chrome-puppeteer-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinaymavi/google-chrome-puppeteer-examples.git",
+  "author": "VinayMavi <vinaymavi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.9.0"
+  }
+}

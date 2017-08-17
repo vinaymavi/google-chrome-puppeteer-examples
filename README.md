@@ -1,2 +1,2 @@
-# google-chrome-puppeteer-examples
+# Google-Chrome-Puppeteer-examples
 google-chrome-puppeteer examples
